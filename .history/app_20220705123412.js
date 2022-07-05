@@ -3,5 +3,4 @@ let originalStory = `<h2>I was working in 2 different companies in two different
                         <h2>There was a day when they started taking in interns and that's when I met my girlfriend. She's such a wonderful person to be with, she's been supporting me all thru' my days in the company. She is working as a content writer in the company. She would probably be joining the company for next 1 year.</h2>`;
 
 
-let userInputs;
-
+let y

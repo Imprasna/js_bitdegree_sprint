@@ -1,0 +1,1 @@
+let originalStory = `I was working in `;

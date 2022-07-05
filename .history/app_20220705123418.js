@@ -4,4 +4,3 @@ let originalStory = `<h2>I was working in 2 different companies in two different
 
 
 let userInputs;
-

@@ -1,0 +1,1 @@
+let originalStory = `I was working in 2 different companies in two different variants. One was MLM and the other was the one which I loved to wor`;
